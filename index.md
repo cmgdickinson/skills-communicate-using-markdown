@@ -7,3 +7,10 @@
 ```
 myString = "Hello World"
 ```
+
+Task List:
+
+- [x] Start doing GitHub tutorials
+- [x] Get confused
+- [x] Get distracted watching my dog fail to eat a bug
+- [ ] Finish tutorial
